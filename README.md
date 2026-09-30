@@ -1,2 +1,2 @@
 # Galaxytime-for-samung-watch7
-apk
+gpt移植版
